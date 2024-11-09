@@ -18,6 +18,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\TIA V19\Documents\REPO\RAZOR\Bloggie\Bloggie\Bloggie.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/TIA V19/Documents/REPO/RAZOR/Bloggie/Bloggie/Bloggie.Web/Pages/Admin/Blogs/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ3NcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TIA V19/Documents/REPO/RAZOR/Bloggie/Bloggie/Bloggie.Web/Pages/Admin/Blogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/TIA V19/Documents/REPO/RAZOR/Bloggie/Bloggie/Bloggie.Web/Pages/Admin/Blogs/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQmxvZ3NcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/TIA V19/Documents/REPO/RAZOR/Bloggie/Bloggie/Bloggie.Web/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
